@@ -6,7 +6,7 @@
 
 📥 Wanna connect or build together, shoot me an [Email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsvCfczRMbNgwxsFNjSsDrDLnVxTNpvHhvKDBwZWDSBSLLkhvCTRHhTKGCzlXVNTJhPtSVHB) :)
 
-💬 Ask me about anything [Here](https://github.com/x33zp/x33zp/issues)
+💬 Ask me about anything [Here](https://github.com/Gabimaru0x1/Gabimaru0x1/issues)
 
 <!-- ##
  ### 🌐 Socials:
@@ -17,27 +17,27 @@
 ## Tech Stack :
 ### Languages and Tools
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/x33zp)
-[![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/x33zp)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/x33zp)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/x33zp)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Gabimaru0x1)
+[![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Gabimaru0x1)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Gabimaru0x1)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Gabimaru0x1)
 <!-- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar)-->
 <!-- [![GIT](https://img.shields.io/badge/git-%3E2C00.svg?style=for-the-badge&logo=GIT&logoColor=white)](https://github.com/zubbypeculiar) -->
 <!-- [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/x33zp) -->
 
 ### Technologies and Frameworks
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/x33zp)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/x33zp)
-[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/x33zp)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/x33zp)
-[![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/x33zp)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/x33zp)
-[![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&color=green)](https://github.com/x33zp)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Gabimaru0x1)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Gabimaru0x1)
+[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/Gabimaru0x1)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Gabimaru0x1)
+[![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/Gabimaru0x1)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Gabimaru0x1)
+[![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&color=green)](https://github.com/Gabimaru0x1)
 <!-- [![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/x33zp) -->
 
 ### Databases
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://github.com/x33zp)
-[![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/x33zp)
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://github.com/Gabimaru0x1)
+[![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Gabimaru0x1)
 
  <!-- <h2 align="left">💻 Languages and Tools</h2>
 <p>
@@ -63,7 +63,7 @@
 [![Vue.js](https://img.shields.io/badge/-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)](https://github.com/zubbypeculiar) -->
 
 ## Design
-[![Figma](https://img.shields.io/badge/figma-1B1C30.svg?style=for-the-badge&logo=figma&logoColor=F24E1E)](https://github.com/x33zp)
+[![Figma](https://img.shields.io/badge/figma-1B1C30.svg?style=for-the-badge&logo=figma&logoColor=F24E1E)](https://github.com/Gabimaru0x1)
 <!--
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)](https://github.com/zubbypeculiar)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/zubbypeculiar)
@@ -77,9 +77,9 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/zubbypeculiar)  -->
 
 ## GitHub Stats :
-[![](https://github-readme-stats.vercel.app/api?username=x33zp&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/x33zp) <br />
-[![](https://github-readme-streak-stats.herokuapp.com/?user=x33zp&theme=gotham&hide_border=false)](https://github.com/x33zp) <br />
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=x33zp&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/x33zp)
+[![](https://github-readme-stats.vercel.app/api?username=Gabimaru0x1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Gabimaru0x1) <br />
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Gabimaru0x1&theme=gotham&hide_border=false)](https://github.com/Gabimaru0x1) <br />
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabimaru0x1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Gabimaru0x1)
 
 <!-- ### Top Repositories
 
@@ -91,12 +91,12 @@
 </a> -->
 ## 
 ### ✍️ Random Dev Quote :
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/x33zp)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Gabimaru0x1)
 
  <!-- ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/> -->
 
 --- 
-[![](https://visitcount.itsvg.in/api?id=zubbypeculiar&icon=5&color=3)](https://github.com/x33zp)
+[![](https://visitcount.itsvg.in/api?id=zubbypeculiar&icon=5&color=3)](https://github.com/Gabimaru0x1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
